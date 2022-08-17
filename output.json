@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 6860,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Here's what NFTs look like on Instagram",
+      "description": "Meta has revealed more of how NFTs will work on Instagram. In the US-based test, you can show what you've bought or created for free by connecting your Instagram account to a compatible digital wallet and posting for the world to see. If you like, the social …",
+      "url": "https://www.engadget.com/instagram-nft-details-131020868.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/2546c160-d05e-11ec-b75e-e45eaa8c5b2b",
+      "publishedAt": "2022-05-10T13:10:20Z",
+      "content": "Meta has revealed more of how NFTs will work on Instagram. In the US-based test, you can show what you've bought or created for free by connecting your Instagram account to a compatible digital walle… [+1223 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "New York passes a bill to limit bitcoin mining",
+      "description": "New York lawmakers have passed a bill that would temporarily ban new bitcoin mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of Governor Kathy Hochul, who will sign it into law or veto th…",
+      "url": "https://www.engadget.com/new-york-cryptocurrency-bill-bitcoin-mining-climate-change-161126292.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/a8217250-bdfa-11eb-bfc4-2663225cea83",
+      "publishedAt": "2022-06-03T16:11:26Z",
+      "content": "New York lawmakers have passed a bill that would temporarily ban new bitcoin mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of… [+2036 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steven Levy",
+      "title": "Meta’s New COO Is Nothing Like Sheryl Sandberg",
+      "description": "Plus: The early days of Facebook, charitable donations, and a disconcerting playlist.",
+      "url": "https://www.wired.com/story/plaintext-meta-new-coo-sheryl-sandberg/",
+      "urlToImage": "https://media.wired.com/photos/62995c649fa3280504562879/191:100/w_1280,c_limit/Javier-Olivan-Meta-COO-Business-Plain-Background.jpg",
+      "publishedAt": "2022-06-03T13:00:00Z",
+      "content": "Hey, folks. Were deadlocked on gun safety, the Ukraine war still grinds on, and a gallon of gas is approaching the price of an Ethereum gas fee. At least we dont have to deal with Johnny Depp for ano… [+4167 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Meghan O'Gieblyn",
+      "title": "Can Social Media Be Redeemed?",
+      "description": "WIRED’s spiritual advice columnist on Jack Dorsey’s remorse for his role in creating a centralized internet and what it signals for the rest of us.",
+      "url": "https://www.wired.com/story/can-social-media-be-redeemed/",
+      "urlToImage": "https://media.wired.com/photos/62756b69ada91b8860a6f0d5/191:100/w_1280,c_limit/WI060122_ST_CloudSupport_01.jpg",
+      "publishedAt": "2022-05-11T12:00:00Z",
+      "content": "I read that Jack Dorsey, a cofounder of Twitter, claims to regret his role in creating the centralized internet. Given what we know about the divisiveness, violence, and misinformation that social me… [+7774 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Corin Faife",
+      "title": "Stablecoins are struggling to survive the crypto crash",
+      "description": "After the Terra stablecoin broke its dollar peg and dropped to less than 30 cents, investors have been watching closely for repercussions across cryptocurrency markets.",
+      "url": "https://www.theverge.com/2022/5/12/23069232/terra-luna-collapse-stablecoins-crypto-crash-bitcoin",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rUaR5RqYmvfihRfA_BzIMNOzcio=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10576389/acastro_180402_2428_001.jpg",
+      "publishedAt": "2022-05-12T20:56:14Z",
+      "content": "Once pegged to the dollar, Terras UST coin is now trading at 40 cents Illustration by Alex Castro Its been a crushing few days for the Terra project, in a week that has been unforgiving for cryptoc… [+4159 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "How the Anchor protocol helped sink Terra",
+      "description": "If a 20 percent interest rate sounds too good to be true, it probably is. Ultimately, Anchor weighed its investors down when Terra ran aground.",
+      "url": "https://www.theverge.com/2022/5/20/23131647/terra-luna-do-kwon-stablecoin-anchor",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IVL0qTILLdUK0KGUt8E3CQahHro=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22413649/acastro_210329_1777_nft_0004.jpg",
+      "publishedAt": "2022-05-20T15:20:00Z",
+      "content": "Illustration by Alex Castro / The Verge If Do Kwon didn’t exist, someone would have had to invent him. For instance, there’s the bets he made — worth $11 million in total and held in escrow by … [+8192 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "How Ukraine’s wide use of cryptocurrency is playing out during the war",
+      "description": "Michael Chobanian, the president of the Blockchain Association of Ukraine, discusses how cryptocurrency and blockchain could reshape the Ukrainian government.",
+      "url": "https://www.theverge.com/23138465/decoder-ukraine-war-cryptocurrency-michael-chobanian-interview-bitcoin-usdt",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hyxIGAl42Cl6sDQJzy2cD3X4tEg=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23583410/VRG_ILLO_Decoder_Michael_Chobanian.jpg",
+      "publishedAt": "2022-05-24T15:23:59Z",
+      "content": "Photo Illustration by Grayson Blackmon / The Verge; Photo by Oliyarnyk / CC-BY-SA-4.0 With Michael Chobanian, the president of the Blockchain Association of Ukraine The terrible, unprovoked wa… [+52103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "GameStop Dunks Its Head Into the Crypto Kiddie Pool",
+      "description": "GameStop has officially thrown itself headlong into the web3 vipers nest with a new app release, though it’s hard to say whether its proposed population of gamers and game developers will take up the company on its belated, head-first jump into the crypto sph…",
+      "url": "https://gizmodo.com/gamestop-crypto-nft-wallet-blockchain-1848965386",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cd4c128b4182d7b2fba8152d7bb35733.jpg",
+      "publishedAt": "2022-05-23T21:35:00Z",
+      "content": "GameStop has officially thrown itself headlong into the web3 vipers nest with a new app release, though its hard to say whether its proposed population of gamers and game developers will take up the … [+3255 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Bitcoin value drops by 50% since November peak",
+      "description": "The slide in the value of cryptocurrencies comes as stock markets around the world have also fallen.",
+      "url": "https://www.bbc.co.uk/news/business-61375152",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8362/production/_124643633_gettyimages-1384896168.jpg",
+      "publishedAt": "2022-05-09T03:04:37Z",
+      "content": "Image source, Getty Images The value of Bitcoin continued to fall over the weekend as it dropped below $34,000 (£27,630), according to the Coinbase cryptocurrency exchange. The world's largest cryp… [+2164 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "NiceHash software unlocks full crypto-mining performance for most Nvidia GPUs",
+      "description": "But the workaround still can't defeat the newest version of Nvidia's LHR tech.",
+      "url": "https://arstechnica.com/gadgets/2022/05/nicehash-software-unlocks-full-cryptomining-performance-for-most-nvidia-gpus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/30770561533_a4ea9f1dd9_o-760x380.jpg",
+      "publishedAt": "2022-05-09T16:52:01Z",
+      "content": "9 with 8 posters participating Nvidia began releasing LHR (or Lite Hash Rate) graphics cards last year to slow down their cryptocurrency mining performance and make them less appealing to non-gamers… [+2182 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Timothy B. Lee",
+      "title": "Bitcoin plunges to lowest price since 2020 amid broader sell-off",
+      "description": "The 'stablecoin' Tether briefly lost its peg to the dollar on Thursday morning.",
+      "url": "https://arstechnica.com/tech-policy/2022/05/bitcoin-plunges-to-lowest-price-since-2020-amid-broader-sell-off/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-876199432-760x380.jpg",
+      "publishedAt": "2022-05-12T21:40:52Z",
+      "content": "23 with 16 posters participating, including story author The price of one Bitcoin briefly fell below $27,000 on Thursday morning, the lowest price for the cryptocurrency since 2020. The world's lead… [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "'Pay more attention' Ethereum co-founder says of crypto crash - Reuters",
+      "description": "Ethereum's co-founder Gavin Wood said cryptocurrency investors need to be more aware of what is backing their holdings after a market rout which wiped more than $800 billion off their value.",
+      "url": "https://www.reuters.com/markets/us/pay-more-attention-ethereum-co-founder-says-crypto-crash-2022-05-25/",
+      "urlToImage": "https://www.reuters.com/resizer/XsA-mJuk-UfiaqX_lbwtVZ8Egp4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TK5SKXCQMNPBFOQOZZTJB55GHQ.jpg",
+      "publishedAt": "2022-05-25T09:33:00Z",
+      "content": "DAVOS, Switzerland, May 25 (Reuters) - Ethereum's co-founder Gavin Wood said cryptocurrency investors need to be more aware of what is backing their holdings after a market rout which wiped more than… [+1744 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bitcoin last up 5.7% at $39862.84 - Reuters.com",
+      "description": "Bitcoin rose 5.7% to $39,862.84, on Wednesday, adding $2,102.94 to its previous close.",
+      "url": "https://www.reuters.com/business/bitcoin-last-up-57-3986284-2022-05-04/",
+      "urlToImage": "https://www.reuters.com/resizer/BWWUiBev3PUU7DomJJXE2-Iqz30=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZ6CVP422VIJ5A6UACI72VHUSY.jpg",
+      "publishedAt": "2022-05-04T20:16:00Z",
+      "content": "May 4 (Reuters) - Bitcoin rose 5.7% to $39,862.84, on Wednesday, adding $2,102.94 to its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is up 20.9% from the year's low o… [+337 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bitcoin falls 7.2% to $28758 - Reuters.com",
+      "description": "Bitcoin fell 7.23% to $28,758.29 at 22:05 GMT on Wednesday, losing $2,241.68 from its previous close.",
+      "url": "https://www.reuters.com/business/bitcoin-falls-72-28758-2022-05-11/",
+      "urlToImage": "https://www.reuters.com/resizer/lEay-or8c9TPjZOEmIjrJf3ylQk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3RKTTS2CRVM2BEEDCB2ZIPV3L4.jpg",
+      "publishedAt": "2022-05-11T22:18:00Z",
+      "content": "May 11 (Reuters) - Bitcoin fell 7.23% to $28,758.29 at 22:05 GMT on Wednesday, losing $2,241.68 from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 40.4% fro… [+361 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bitcoin falls 7.8% to $31333 - Reuters",
+      "description": "Bitcoin dropped 7.81% to $31,333.41 at 20:03 GMT on Monday, losing $2,655.98 from its previous close.",
+      "url": "https://www.reuters.com/business/bitcoin-falls-78-31333-2022-05-09/",
+      "urlToImage": "https://www.reuters.com/resizer/BWWUiBev3PUU7DomJJXE2-Iqz30=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZ6CVP422VIJ5A6UACI72VHUSY.jpg",
+      "publishedAt": "2022-05-09T20:11:00Z",
+      "content": "May 9 (Reuters) - Bitcoin dropped 7.81% to $31,333.41 at 20:03 GMT on Monday, losing $2,655.98 from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 35% from t… [+351 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Gucci jumps on the crypto bandwagon with U.S. project - Reuters.com",
+      "description": "Gucci's high-end handbags and other luxury products can now be bought using cryptocurrencies, including bitcoin, in some U.S. stores, the Italian company said, as digital currencies move to broader acceptance.",
+      "url": "https://www.reuters.com/business/retail-consumer/gucci-jumps-crypto-bandwagon-with-us-project-2022-05-05/",
+      "urlToImage": "https://www.reuters.com/resizer/aLPEIt4kysCMpwdBeNLdWl6_YxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/353HRRTJVVKDLIMZK5Y3V2JP3I.jpg",
+      "publishedAt": "2022-05-05T08:26:00Z",
+      "content": "May 5 (Reuters) - Gucci's high-end handbags and other luxury products can now be bought using cryptocurrencies, including bitcoin, in some U.S. stores, the Italian company said, as digital currencies… [+1161 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bitcoin falls to lowest since January, in line with tumbling stock markets - Reuters",
+      "description": "Bitcoin fell to its lowest level since January on Monday as slumping equity markets continued to hurt cryptocurrencies, which are currently trading in line with so-called riskier assets like tech stocks.",
+      "url": "https://www.reuters.com/business/finance/bitcoin-falls-lowest-since-january-line-with-tumbling-stock-markets-2022-05-09/",
+      "urlToImage": "https://www.reuters.com/resizer/B0qAxA8TjZ596MlWtB1mhDiQ1HM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SBR5WIGRUVJBRNZBI6EL6DOKVA.jpg",
+      "publishedAt": "2022-05-09T04:43:00Z",
+      "content": "HONG KONG, May 9 (Reuters) - Bitcoin fell to its lowest level since January on Monday as slumping equity markets continued to hurt cryptocurrencies, which are currently trading in line with so-called… [+1775 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Crypto lender Babel Finance valued at $2 billion after latest fundraising - Reuters.com",
+      "description": "Hong Kong-based Babel Finance said on Wednesday it had raised $80 million in a new funding round that valued the cryptocurrency lender and asset manager at $2 billion.",
+      "url": "https://www.reuters.com/markets/wealth/crypto-lender-babel-finance-valued-2-billion-after-latest-fundraising-2022-05-25/",
+      "urlToImage": "https://www.reuters.com/resizer/qtFOvHOgY-Bv63LX1PzCLfWs25w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWBLTHOVWJMCXHGWN726BGSKJY.jpg",
+      "publishedAt": "2022-05-25T12:56:00Z",
+      "content": "May 25 (Reuters) - Hong Kong-based Babel Finance said on Wednesday it had raised $80 million in a new funding round that valued the cryptocurrency lender and asset manager at $2 billion. Investors w… [+1648 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Breakingviews - Smaller, warmer Davos confronts a siloed world - Reuters",
+      "description": "The World Economic Forum is showing signs of a more siloed world. Political, business and financial leaders and their entourages are convening in Davos, Switzerland this week after a delay of more than two years. Pandemic, war, and the unusual spring slot hel…",
+      "url": "https://www.reuters.com/breakingviews/smaller-warmer-davos-confronts-siloed-world-2022-05-23/",
+      "urlToImage": "https://www.reuters.com/resizer/TpLPsZMUdnAtVif7YeQJ9h0AGzY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DVKGIGKQUROXJOX2UPABZD4PWA.jpg",
+      "publishedAt": "2022-05-23T09:10:00Z",
+      "content": "DAVOS, Switzerland, May 23 (Reuters Breakingviews) - The World Economic Forum is showing signs of a more siloed world. Political, business and financial leaders and their entourages are convening in … [+3289 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bitcoin lures inflation-weary Argentines despite crypto crash - Reuters",
+      "description": "In the Crypstation cafe in downtown Buenos Aires, trendy young Argentines order their lattes and pastries surrounded by screens with real-time cryptocurrency price quotes and a huge neon Bitcoin logo. The bill can be paid in digital money, too.",
+      "url": "https://www.reuters.com/world/americas/bitcoin-lures-inflation-weary-argentines-despite-crypto-crash-2022-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg",
+      "publishedAt": "2022-05-30T11:12:00Z",
+      "content": "BUENOS AIRES, May 30 (Reuters) - In the Crypstation cafe in downtown Buenos Aires, trendy young Argentines order their lattes and pastries surrounded by screens with real-time cryptocurrency price qu… [+3418 chars]"
+    }
+  ]
+}
