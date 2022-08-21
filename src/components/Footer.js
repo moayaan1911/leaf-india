@@ -54,7 +54,19 @@ export class Footer extends Component {
                 <img src="telegram.png" alt="twitter" />
               </a>
             </div>
-
+            <div
+              style={{ fontStyle: "italic", fontSize: "10px" }}
+              className="text-center"
+            >
+              <a
+                href="http://icons8.com"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noreferrer"
+              >
+                icons by icons8
+              </a>
+            </div>
             <div
               className="text-center text-white py-1"
               style={{ backgroundColor: "#00cc00" }}
