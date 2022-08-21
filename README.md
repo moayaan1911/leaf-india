@@ -1,10 +1,27 @@
-# Getting Started with Create React App
+# Leaf India- news on the go
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![LOGO1](./public/logo1.png)
+![LOGO2](./public/logo2.png)
 
-## Available Scripts
+## Run on your Local Machine
 
-In the project directory, you can run:
+1. Create a clone of this repository or download the repository
+   ```
+   git clone https://github.com/moayaan1911/leaf
+   ```
+2. Run
+   ````
+   npm i
+    ```
+   This will install all dependencies.
+   ````
+3. Run
+   ```
+   npm run start
+   ```
+   This will run it on your local machine.
+
+This project can't run on a deployed link as it uses a development API and is a practice project.
 
 ### `npm start`
 
