@@ -27,7 +27,9 @@
 
    This will run it on your local machine.
 
-**This project can't run on a deployed link as it uses a development API and is a practice project.**
+## **This project can't run on a deployed link as it uses a development API and is a practice project.**
+
+---
 
 ## Tech Stack
 
@@ -39,15 +41,17 @@ The Tech Stack used in this project are:-
 4. icons8 (https://icons8.com/)
 5. Google Fonts (https://fonts.google.com/)
 
-# Follow the Developer
+---
 
-Hello Everyone, My name is Mohammad Ayaan Siddiqui. I am a WEB3 developer and a FIRM BELIEVER of DECENTRALIZED WEB. If you want to connect with me, the socials are below.
+## About the Developer
 
-Github- https://github.com/moayaan1911
-Linkedin- "https://www.linkedin.com/in/mohammad-ayaan-siddiqui-678564214/
-Twitter- https://www.twitter.com/usdisshitcoin
-Instagram- https://www.instagram.com/moayaan_1911
-Telegram:- https://t.me/usdisshitcoin
+Hello Everyone, My name is Mohammad Ayaan Siddiqui. I am a WEB3 developer and a FIRM BELIEVER of DECENTRALIZED WEB and cryptocurrencies in general. If you want to connect with me, the socials are below.
+
+1.  Github- [https://github.com/moayaan1911](https://github.com/moayaan1911)
+2.  Linkedin- https://www.linkedin.com/in/mohammad-ayaan-siddiqui-678564214/
+3.  Twitter- [https://www.twitter.com/usdisshitcoin](https://www.twitter.com/usdisshitcoin)
+4.  Instagram- [https://www.instagram.com/moayaan_1911](https://www.instagram.com/moayaan_1911)
+5.  Telegram-https://t.me/usdisshitcoin
 
 ## Thank You
 
