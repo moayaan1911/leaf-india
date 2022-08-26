@@ -45,7 +45,7 @@ The Tech Stack used in this project are:-
 
 ## About the Developer
 
-Hello Everyone, My name is Mohammad Ayaan Siddiqui. I am a WEB3 developer and a FIRM BELIEVER of DECENTRALIZED WEB and cryptocurrencies in general. If you want to connect with me, the socials are below.
+Hello Everyone, My name is Mohammad Ayaan Siddiqui. I am a WEB3 learner and a FIRM BELIEVER of DECENTRALIZED WEB and cryptocurrencies in general. If you want to connect with me, the socials are below.
 
 1.  Github- [https://github.com/moayaan1911](https://github.com/moayaan1911)
 2.  Linkedin- https://www.linkedin.com/in/mohammad-ayaan-siddiqui-678564214/
