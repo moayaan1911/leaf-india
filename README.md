@@ -5,7 +5,7 @@
 
 ---
 
-## Run on your Local Machine
+## Run on your Local Machine:-
 
 1. Create a clone of this repository or download the repository
    ```
